@@ -28,7 +28,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript. This website
 
 ## Demo
 
-You can view a live demo of the website [https://pvpkishorecom-pv-kishores-projects.vercel.app/](#).
+You can view a live demo of the website [https://pvpkishorecom-pv-kishores-projects.vercel.app/](#)
 
 ## Technologies Used
 
